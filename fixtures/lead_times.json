@@ -1,0 +1,111 @@
+[
+  {
+    "supplier_id": "SUP-A",
+    "sku_id": "SKU-001",
+    "actual_lead_time_mean": 18.5,
+    "actual_lead_time_std": 3.2,
+    "actual_lead_time_p50": 18.0,
+    "actual_lead_time_p85": 22.0,
+    "actual_lead_time_p95": 25.0,
+    "lead_time_bias_days": 2.5,
+    "sample_count": 14,
+    "most_recent_record": "2026-03-15"
+  },
+  {
+    "supplier_id": "SUP-A",
+    "sku_id": "SKU-002",
+    "actual_lead_time_mean": 18.5,
+    "actual_lead_time_std": 3.2,
+    "actual_lead_time_p50": 18.0,
+    "actual_lead_time_p85": 22.0,
+    "actual_lead_time_p95": 25.0,
+    "lead_time_bias_days": 2.5,
+    "sample_count": 11,
+    "most_recent_record": "2026-03-20"
+  },
+  {
+    "supplier_id": "SUP-B",
+    "sku_id": "SKU-003",
+    "actual_lead_time_mean": 24.0,
+    "actual_lead_time_std": 5.5,
+    "actual_lead_time_p50": 23.0,
+    "actual_lead_time_p85": 30.0,
+    "actual_lead_time_p95": 35.0,
+    "lead_time_bias_days": 4.0,
+    "sample_count": 9,
+    "most_recent_record": "2026-02-28"
+  },
+  {
+    "supplier_id": "SUP-A",
+    "sku_id": "SKU-004",
+    "actual_lead_time_mean": 18.5,
+    "actual_lead_time_std": 3.2,
+    "actual_lead_time_p50": 18.0,
+    "actual_lead_time_p85": 22.0,
+    "actual_lead_time_p95": 25.0,
+    "lead_time_bias_days": 2.5,
+    "sample_count": 8,
+    "most_recent_record": "2026-03-10"
+  },
+  {
+    "supplier_id": "SUP-C",
+    "sku_id": "SKU-005",
+    "actual_lead_time_mean": 14.0,
+    "actual_lead_time_std": 2.0,
+    "actual_lead_time_p50": 14.0,
+    "actual_lead_time_p85": 16.5,
+    "actual_lead_time_p95": 18.0,
+    "lead_time_bias_days": 0.0,
+    "sample_count": 18,
+    "most_recent_record": "2026-04-01"
+  },
+  {
+    "supplier_id": "SUP-B",
+    "sku_id": "SKU-006",
+    "actual_lead_time_mean": 24.0,
+    "actual_lead_time_std": 5.5,
+    "actual_lead_time_p50": 23.0,
+    "actual_lead_time_p85": 30.0,
+    "actual_lead_time_p95": 35.0,
+    "lead_time_bias_days": 4.0,
+    "sample_count": 6,
+    "most_recent_record": "2026-03-05"
+  },
+  {
+    "supplier_id": "SUP-C",
+    "sku_id": "SKU-007",
+    "actual_lead_time_mean": 14.0,
+    "actual_lead_time_std": 2.0,
+    "actual_lead_time_p50": 14.0,
+    "actual_lead_time_p85": 16.5,
+    "actual_lead_time_p95": 18.0,
+    "lead_time_bias_days": 0.0,
+    "sample_count": 2,
+    "most_recent_record": "2026-01-20"
+  },
+  {
+    "supplier_id": "SUP-D",
+    "sku_id": "SKU-008",
+    "actual_lead_time_mean": 21.0,
+    "actual_lead_time_std": 4.0,
+    "actual_lead_time_p50": 21.0,
+    "actual_lead_time_p85": 26.0,
+    "actual_lead_time_p95": 29.0,
+    "lead_time_bias_days": 1.0,
+    "sample_count": 12,
+    "most_recent_record": "2026-04-10"
+  },
+  {
+    "supplier_id": "SUP-C",
+    "sku_id": null,
+    "actual_lead_time_mean": 14.0,
+    "actual_lead_time_std": 2.5,
+    "actual_lead_time_p50": 14.0,
+    "actual_lead_time_p85": 17.0,
+    "actual_lead_time_p95": 19.0,
+    "lead_time_bias_days": 0.0,
+    "sample_count": 35,
+    "most_recent_record": "2026-04-15",
+    "_note": "Supplier-level fallback — used when sku_id-level sample_count < 3"
+  }
+]

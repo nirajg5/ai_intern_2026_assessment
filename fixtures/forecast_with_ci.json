@@ -1,0 +1,2162 @@
+[
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-001",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 4.2,
+    "lower_ci_80": 2.1,
+    "upper_ci_80": 6.3,
+    "ci_width_80": 4.2
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-002",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 3.8,
+    "lower_ci_80": 1.8,
+    "upper_ci_80": 5.8,
+    "ci_width_80": 4.0
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-003",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 5.5,
+    "lower_ci_80": 2.7,
+    "upper_ci_80": 8.3,
+    "ci_width_80": 5.6
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-004",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 6.2,
+    "lower_ci_80": 3.7,
+    "upper_ci_80": 8.7,
+    "ci_width_80": 5.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-005",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 2.1,
+    "lower_ci_80": 1.1,
+    "upper_ci_80": 3.1,
+    "ci_width_80": 2.0
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-006",
+    "channel_id": "CH-WHOLESALE",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 3.5,
+    "lower_ci_80": 1.7,
+    "upper_ci_80": 5.3,
+    "ci_width_80": 3.6
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-007",
+    "channel_id": "CH-DTC",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 5.0,
+    "lower_ci_80": 2.8,
+    "upper_ci_80": 7.2,
+    "ci_width_80": 4.4
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-04-29",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-04-30",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-01",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-02",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-03",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-04",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-05",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-06",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-07",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-08",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-09",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-10",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-11",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-12",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-13",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-14",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-15",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-16",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-17",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-18",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-19",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-20",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-21",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-22",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-23",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-24",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-25",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-26",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-27",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  },
+  {
+    "sku_id": "SKU-008",
+    "channel_id": "CH-AMAZON",
+    "forecast_date": "2026-05-28",
+    "adjusted_forecast_qty": 1.5,
+    "lower_ci_80": 0.7,
+    "upper_ci_80": 2.3,
+    "ci_width_80": 1.6
+  }
+]
