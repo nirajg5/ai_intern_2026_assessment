@@ -24,29 +24,6 @@ pytest tests/test_stockout_risk.py -v
 pytest tests/test_orchestrator.py -v
 ```
 
-## Demo — 3-turn conversation
-
-```bash
-python -c "
-import sys
-sys.path.insert(0, '.')
-from agent.orchestrator import PlanningAssistant
-
-a = PlanningAssistant()
-
-print('=== Turn 1: Full risk query ===')
-print(a.handle_query('Which SKUs are at highest risk of stocking out in the next 30 days?'))
-
-print()
-print('=== Turn 2: Filter core SKUs (cache reuse) ===')
-print(a.handle_query('Now show me only the core SKUs from that list.'))
-
-print()
-print('=== Turn 3: Change horizon (cache invalidation) ===')
-print(a.handle_query('What would happen if the horizon was 60 days instead?'))
-"
-```
-
 ## Project structure
 
 ```
