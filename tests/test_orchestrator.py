@@ -2,7 +2,6 @@
 tests/test_orchestrator.py — Task B tests
 
 Covers the required 3-turn conversation scenario plus error handling.
-Every assertion is real. No assert True placeholders.
 
 Turn 1: full analysis — tools called, results returned
 Turn 2: core filter — cache reused, tools NOT re-run

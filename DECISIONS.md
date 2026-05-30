@@ -50,9 +50,18 @@ a new entry rather than evicting the old one — switching back to 30 days reuse
 the earlier result immediately. Cache is per-session (in-memory dict); a
 production system would use Redis with TTLs.
 
-Tool sequencing is enforced in `_execute_stockout_query`: if inventory fails,
-stockout is never called. If either tool raises `RuntimeError`, the orchestrator
-surfaces a plain-English message with no stack trace and no hallucinated data.
+Tool sequencing is enforced in `_execute_stockout_query`: inventory always runs
+first. If either tool raises `RuntimeError`, the orchestrator surfaces a
+plain-English message with no stack trace and no hallucinated data.
+
+## Bonus: LangGraph implementation
+
+Five nodes — `parse_intent → call_inventory → call_stockout_risk → synthesise` —
+with conditional edges routing to `handle_error` if any tool sets `error_message`
+in state. Each node is a pure function returning a dict of state updates, keeping
+nodes independently testable. The `QueryPlan` struct from Task B carries over so
+nodes act on a structured plan, not raw strings — preserving the LLM-plans /
+tools-compute separation inside the graph.
 
 ## Tradeoffs
 

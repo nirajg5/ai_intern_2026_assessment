@@ -1,35 +1,27 @@
 """
-agent/graph.py
+agent/graph.py — LangGraph graph (Bonus Task)
 
-Bonus task — wire the LangGraph graph here.
+Graph topology:
 
-YOUR TASK:
-  Build a StateGraph using the nodes from agent/nodes.py.
-  The graph must implement the following routing logic:
+    parse_intent
+         │
+    call_inventory ──(error)──► handle_error
+         │
+    call_stockout_risk ──(error)──► handle_error
+         │
+      synthesise
 
-    parse_intent → call_inventory → call_stockout_risk → synthesise
-                                                        ↘ handle_error (on tool failure)
-
-  Routing rules:
-    - After call_inventory: if an error occurred, route to handle_error.
-      Otherwise route to call_stockout_risk.
-    - After call_stockout_risk: if an error occurred, route to handle_error.
-      Otherwise route to synthesise.
-    - handle_error and synthesise are both terminal nodes.
-
-  The compiled graph is exported as `app` so it can be imported in tests and
-  in a future CLI/chat interface.
-
-Usage:
-    from agent.graph import app
-
-    state = app.invoke({
-        "messages": [],
-        "last_user_message": "Which SKUs are at highest risk of stocking out in 30 days?",
-        # ... other initial state fields
-    })
-    print(state["final_response"])
+Design notes:
+- Conditional edges route to handle_error if error_message is set after
+  a tool node. This keeps error handling out of the tool nodes themselves.
+- synthesise and handle_error are both terminal (→ END).
+- The compiled `app` is exported so tests and a future CLI can import it
+  with a single `from agent.graph import app`.
 """
+
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 try:
     from langgraph.graph import StateGraph, END
@@ -49,22 +41,65 @@ from agent.nodes import (
 )
 
 
+def _route_after_inventory(state: AgentState) -> str:
+    """Route to handle_error if inventory failed, else continue to stockout."""
+    return "handle_error" if state.get("error_message") else "call_stockout_risk"
+
+
+def _route_after_stockout(state: AgentState) -> str:
+    """Route to handle_error if stockout tool failed, else synthesise."""
+    return "handle_error" if state.get("error_message") else "synthesise"
+
+
 def build_graph() -> StateGraph:
     """
-    Construct and return the compiled LangGraph application.
+    Construct and compile the LangGraph application.
 
-    TODO: implement this function.
-
-    Hints:
-      - Use StateGraph(AgentState) as the base.
-      - Add nodes with graph.add_node("node_name", function).
-      - Add edges with graph.add_edge or graph.add_conditional_edges.
-      - Set the entry point with graph.set_entry_point("parse_intent").
-      - Compile with graph.compile().
+    Node registration order matches the execution topology above.
+    Conditional edges implement error routing without embedding
+    error-handling logic inside the tool nodes.
     """
-    # TODO: implement this function
-    raise NotImplementedError("build_graph not yet implemented")
+    graph = StateGraph(AgentState)
+
+    # Register nodes
+    graph.add_node("parse_intent",       parse_intent)
+    graph.add_node("call_inventory",     call_inventory)
+    graph.add_node("call_stockout_risk", call_stockout_risk)
+    graph.add_node("synthesise",         synthesise)
+    graph.add_node("handle_error",       handle_error)
+
+    # Entry point
+    graph.set_entry_point("parse_intent")
+
+    # Fixed edge: parse_intent → call_inventory (always)
+    graph.add_edge("parse_intent", "call_inventory")
+
+    # Conditional edge: after inventory, check for errors
+    graph.add_conditional_edges(
+        "call_inventory",
+        _route_after_inventory,
+        {
+            "call_stockout_risk": "call_stockout_risk",
+            "handle_error":       "handle_error",
+        },
+    )
+
+    # Conditional edge: after stockout risk, check for errors
+    graph.add_conditional_edges(
+        "call_stockout_risk",
+        _route_after_stockout,
+        {
+            "synthesise":   "synthesise",
+            "handle_error": "handle_error",
+        },
+    )
+
+    # Terminal nodes → END
+    graph.add_edge("synthesise",   END)
+    graph.add_edge("handle_error", END)
+
+    return graph.compile()
 
 
-# Compile on import so tests can do: from agent.graph import app
+# Compiled on import — tests and CLI use: from agent.graph import app
 app = build_graph()
