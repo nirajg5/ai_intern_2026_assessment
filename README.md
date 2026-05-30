@@ -57,9 +57,9 @@ sc-intern-project/
 ├── utils/
 │   └── intent_parser.py             # parse_intent → QueryPlan
 ├── tests/
-│   ├── test_stockout_risk.py        # Task A — 8 tests, no assert True
-│   ├── test_orchestrator.py         # Task B — 13 tests, no assert True
-│   └── test_agent.py                # Bonus — 7 tests, no assert True
+│   ├── test_stockout_risk.py        # Task A — 8 tests
+│   ├── test_orchestrator.py         # Task B — 13 tests
+│   └── test_agent.py                # Bonus — 7 tests
 ├── models.py                        # Pydantic models (StockoutRiskInput/Output)
 ├── DECISIONS.md
 ├── requirements.txt                 # pydantic, numpy, pytest
