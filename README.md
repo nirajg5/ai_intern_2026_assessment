@@ -74,3 +74,4 @@ assistant.handle_query(
 - Simpler approximations are acceptable.
 - We care more about systems thinking than framework usage.
 - AI assistants are explicitly allowed.
+"# ai_intern_2026_assessment" 
