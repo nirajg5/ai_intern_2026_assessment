@@ -1,4 +1,3 @@
-
 # SC Decision Engine — AI Engineer Intern Project
 
 ## Setup
@@ -7,71 +6,65 @@
 pip install -r requirements.txt
 ```
 
-Optional bonus dependencies (LangGraph task only):
+## Run all tests
 
 ```bash
-pip install -r requirements_bonus.txt
+pytest tests/ -v
 ```
 
-## Run Tests
+## Run Task A tests only
 
-**Required tasks (Tasks A & B):**
 ```bash
-pytest tests/test_stockout_risk.py tests/test_orchestrator.py -v
+pytest tests/test_stockout_risk.py -v
 ```
 
-**Bonus task** (requires `requirements_bonus.txt` installed first):
+## Run Task B tests only
+
 ```bash
-pytest tests/test_agent.py -v
+pytest tests/test_orchestrator.py -v
 ```
 
-**Run everything at once:**
+## Demo — 3-turn conversation
+
 ```bash
-pytest -v
+python -c "
+import sys
+sys.path.insert(0, '.')
+from agent.orchestrator import PlanningAssistant
+
+a = PlanningAssistant()
+
+print('=== Turn 1: Full risk query ===')
+print(a.handle_query('Which SKUs are at highest risk of stocking out in the next 30 days?'))
+
+print()
+print('=== Turn 2: Filter core SKUs (cache reuse) ===')
+print(a.handle_query('Now show me only the core SKUs from that list.'))
+
+print()
+print('=== Turn 3: Change horizon (cache invalidation) ===')
+print(a.handle_query('What would happen if the horizon was 60 days instead?'))
+"
 ```
 
-> Note: `tests/test_agent.py` is automatically skipped if LangGraph is not installed.
+## Project structure
 
-## Recommended Approach
-
-### Task A
-Implement a deterministic stockout risk simulation tool.
-
-Focus on:
-- directional correctness,
-- testing,
-- structured outputs,
-- and clear assumptions.
-
-### Task B
-Build a lightweight orchestration layer.
-
-Focus on:
-- tool sequencing,
-- state management,
-- cache reuse,
-- cache invalidation,
-- and graceful error handling.
-
-## Example Interaction
-
-```python
-assistant.handle_query(
-    "Which SKUs are at highest risk in the next 30 days?"
-)
-
-assistant.handle_query(
-    "Now show me only the core SKUs."
-)
-
-assistant.handle_query(
-    "What would happen if the horizon was 60 days instead?"
-)
 ```
-
-## Notes
-
-- Simpler approximations are acceptable.
-- We care more about systems thinking than framework usage.
-- AI assistants are explicitly allowed.
-"# ai_intern_2026_assessment" 
+sc-intern-project/
+├── fixtures/               # JSON fixture data (inventory, forecast, POs, lead times)
+├── tools/
+│   ├── calculate_stockout_risk.py   # Task A: Monte Carlo simulation
+│   └── stubs.py                     # Deterministic stubs for orchestration tests
+├── agent/
+│   ├── orchestrator.py              # Task B: PlanningAssistant
+│   └── state.py                     # ConversationState, Intent, QueryPlan
+├── utils/
+│   └── intent_parser.py             # parse_intent → QueryPlan
+├── tests/
+│   ├── test_stockout_risk.py        # Task A tests (8 tests, no assert True)
+│   └── test_orchestrator.py         # Task B tests (13 tests, no assert True)
+├── models.py                        # Pydantic models (StockoutRiskInput/Output)
+├── DECISIONS.md
+├── requirements.txt
+└── README.md
+```
